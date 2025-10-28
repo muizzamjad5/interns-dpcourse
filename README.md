@@ -362,19 +362,4 @@ git push -u origin main
 
 ---
 
-## Final notes for mentors / team leads
-
-* Encourage interns to make small, visible changes and refresh to see immediate feedback — this tactile loop is motivating.
-* Give short, focused tasks (15–60 minutes each). Review their changes and give specific guidance.
-* Pair-program or demo the first `index.html` edit and the CSS change — then let them try it.
-
----
-
-If you want, I can:
-
-* Provide a step-by-step lesson plan with timings for a 1-hour / 2-hour / half-day workshop.
-* Generate a simple starter template that includes a second page (`about.html`) and assets.
-* Create exercises with automated test instructions (lint checks) to evaluate submissions.
-
-Tell me which of those you'd like and I will prepare it.
 
