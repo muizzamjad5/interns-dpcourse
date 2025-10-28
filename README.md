@@ -781,12 +781,4 @@ When you're stuck or curious, these are reliable places to read more:
 
 ---
 
-## Final message
 
-You now:
-
-* Understand what a website actually is (just files!)
-* Can build and style a basic page with semantic HTML + CSS
-* Can test locally, fix common issues, and ship it to GitHub Pages
-
-This is a legit foundation. You are officially doing web dev. 👊
